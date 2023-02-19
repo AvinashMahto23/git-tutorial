@@ -1,1 +1,1 @@
-hello this is tutorial for github
+hello this is practice for git and github
